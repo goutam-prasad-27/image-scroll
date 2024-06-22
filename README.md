@@ -1,5 +1,3 @@
-Absolutely, here's the README.MD file for your code:
-
 ## AI Image Showcase
 
 This is a simple HTML and CSS project that displays a grid of images. 
